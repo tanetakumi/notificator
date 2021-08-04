@@ -2,7 +2,15 @@
 
 MT4でラインクロスしたときにLINEにスクショとメッセージを送ります。
 
+
+![キャプチャ](https://user-images.githubusercontent.com/75787495/128267385-122b2be5-49b2-48b8-8920-a3dc37f735b6.PNG)
+
+![IMG_8577](https://user-images.githubusercontent.com/75787495/128267423-7899dd5c-672d-4140-9efc-cd1d205b4576.PNG)
+
+
+
 ## 対応しているオブジェクト
+
 1. Horizontal Line
 2. Channel Line
 3. Trend Line
