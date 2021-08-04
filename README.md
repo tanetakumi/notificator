@@ -31,7 +31,7 @@ Editor: VScode metaeditor
 
 言語: mq4
 
-##　キャプチャ画像
+## キャプチャ画像
 
 ![キャプチャ](https://user-images.githubusercontent.com/75787495/128267385-122b2be5-49b2-48b8-8920-a3dc37f735b6.PNG)
 
